@@ -7,5 +7,6 @@ int main(){
     cout << "my name is narges\n";
     cout << "most\n";
     cout << "my major is ce\n";
+    cout << "good bye";
 
 }
